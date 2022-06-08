@@ -1,9 +1,8 @@
-primeiro projeto realizado junto ao tutorial da Roecketseat durante o evento NWL.
+First project made in a starter online bootcamp organized by Rocketseat.
 
-Neste projeto utilizei HTML5, CSS3 e JavaScript para criar um site onepage para um salão de beleza fictício.
-As imagens foram importadas de site unsplash.com e os icones do site icomoon.com 
+I used HTML5, CSS3 and JavaScript to create a onepage website for a made up Beauty Salon.
+the images were imported from unsplash.com and the icons from icomoon.com.
 
-É utilizado também a API do whatsapp para contato.
+I used the API from Whatsapp for the contact buttons.
 
-Este trabalho se trata de um estudo e foi realizado sem fins lucrativos para compreender os fundamentos básicos de
-HTML, CSS e JavaScript.
+This is a study project and is not meant to be sold. The project was made to learn the basics of HTML, CSS and JavaScript.
